@@ -1,7 +1,7 @@
-package org.example;
+package cuentas;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+       operativa_cuenta.run( int operacion, float cantidad);
     }
 }
