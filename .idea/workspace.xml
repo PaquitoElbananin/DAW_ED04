@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f32bf0-6e53-47fc-9ae4-d16aabe8323a" name="Changes" comment="Encapsulación de los atributos de la clase CCuenta, renombramiento de micuenta a  cuenta1, introducción del método operativa_cuenta, adición de dos parámetros nuevos al método operativa_cuenta">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cuentas/CCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cuentas/CCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cuentas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cuentas/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="40f32bf0-6e53-47fc-9ae4-d16aabe8323a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +68,16 @@
       <workItem from="1651692654682" duration="87000" />
       <workItem from="1652208911622" duration="2265000" />
       <workItem from="1652294851717" duration="599000" />
-      <workItem from="1652373183626" duration="2304000" />
+      <workItem from="1652373183626" duration="2652000" />
     </task>
+    <task id="LOCAL-00001" summary="Encapsulación de los atributos de la clase CCuenta, renombramiento de micuenta a  cuenta1, introducción del método operativa_cuenta, adición de dos parámetros nuevos al método operativa_cuenta">
+      <created>1652377580899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652377580899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
