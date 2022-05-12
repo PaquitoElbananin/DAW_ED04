@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f32bf0-6e53-47fc-9ae4-d16aabe8323a" name="Changes" comment="" />
+    <list default="true" id="40f32bf0-6e53-47fc-9ae4-d16aabe8323a" name="Changes" comment="Encapsulación de los atributos de la clase CCuenta, renombramiento de micuenta a  cuenta1, introducción del método operativa_cuenta, adición de dos parámetros nuevos al método operativa_cuenta">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cuentas/CCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cuentas/CCuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cuentas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cuentas/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28iHnANiq946qks1qezdBLB2AWP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,13 +39,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;introduce.parameter.lambda&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TrabajoETS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +70,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651692652726</updated>
+      <workItem from="1651692654682" duration="87000" />
+      <workItem from="1652208911622" duration="2265000" />
+      <workItem from="1652294851717" duration="599000" />
+      <workItem from="1652373183626" duration="2304000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Encapsulación de los atributos de la clase CCuenta, renombramiento de micuenta a  cuenta1, introducción del método operativa_cuenta, adición de dos parámetros nuevos al método operativa_cuenta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulación de los atributos de la clase CCuenta, renombramiento de micuenta a  cuenta1, introducción del método operativa_cuenta, adición de dos parámetros nuevos al método operativa_cuenta" />
   </component>
 </project>
